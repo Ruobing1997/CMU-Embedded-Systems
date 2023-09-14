@@ -1,0 +1,86 @@
+warning: source README.txt is not a readable file or directory... skipping.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:40: warning: Compound rtt_buffer_down_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/printk.h:20: warning: Compound rtt_printk_desc_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/arm.h:14: warning: Member BUSY_LOOP(COND) (macro definition) of file arm.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/arm.h:17: warning: Member enable_prefetch_i_cache() (function) of file arm.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/arm.h:18: warning: Member enable_fpu() (function) of file arm.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/arm.h:19: warning: Member enable_interrupts() (function) of file arm.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/arm.h:20: warning: Member disable_interrupts() (function) of file arm.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/arm.h:21: warning: Member breakpoint() (function) of file arm.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/arm.h:22: warning: Member wait_for_interrupt() (function) of file arm.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/gpio.h:14: warning: Member MODE_INPUT (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/gpio.h:15: warning: Member MODE_OUTPUT (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/gpio.h:18: warning: Member OUTPUT_S0S1 (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/gpio.h:19: warning: Member OUTPUT_H0S1 (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/gpio.h:20: warning: Member OUTPUT_S0H1 (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/gpio.h:21: warning: Member OUTPUT_H0H1 (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/gpio.h:22: warning: Member OUTPUT_D0S1 (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/gpio.h:23: warning: Member OUTPUT_D0H1 (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/gpio.h:24: warning: Member OUTPUT_S0D1 (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/gpio.h:25: warning: Member OUTPUT_H0D1 (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/gpio.h:28: warning: Member PUPD_NONE (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/gpio.h:29: warning: Member PUPD_PULL_DOWN (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/gpio.h:30: warning: Member PUPD_PULL_UP (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/printk.h:13: warning: Member RTT_PRINTK_BUFFER_SIZE (macro definition) of file printk.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/printk.h:15: warning: Member FORMAT_LEFT_JUSTIFY (macro definition) of file printk.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/printk.h:16: warning: Member FORMAT_PAD_ZERO (macro definition) of file printk.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/printk.h:17: warning: Member FORMAT_PRINT_SIGN (macro definition) of file printk.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/printk.h:18: warning: Member FORMAT_ALTERNATE (macro definition) of file printk.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/printk.h:28: warning: Member rtt_printk(uint32_t buffer_index, const char *s_fmt,...) (function) of file printk.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/printk.h:29: warning: Member rtt_vprintk(uint32_t buffer_index, const char *s_fmt, va_list *p_params) (function) of file printk.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/printk.h:30: warning: Member printk(const char *s_fmt,...) (function) of file printk.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rfft.h:12: warning: Member FFT_SIZE (macro definition) of file rfft.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rfft.h:13: warning: Member CFFT_LEN (macro definition) of file rfft.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rfft.h:14: warning: Member BIT_REV_LEN (macro definition) of file rfft.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:14: warning: Member RTT_MAX_UP_BUFFERS (macro definition) of file rtt.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:15: warning: Member RTT_MAX_DOWN_BUFFERS (macro definition) of file rtt.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:16: warning: Member BUFFER_SIZE_UP (macro definition) of file rtt.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:17: warning: Member BUFFER_SIZE_DOWN (macro definition) of file rtt.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:19: warning: Member MIN(a, b) (macro definition) of file rtt.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:20: warning: Member MAX(a, b) (macro definition) of file rtt.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:22: warning: Member NULL (macro definition) of file rtt.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:25: warning: Member RTT__DMB() (macro definition) of file rtt.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:60: warning: Member rtt_init() (function) of file rtt.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:62: warning: Member rtt_write(uint32_t buffer_index, const void *p_buffer, uint32_t num_bytes) (function) of file rtt.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/timer.h:15: warning: Member CSR_address (macro definition) of file timer.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/timer.h:16: warning: Member RVR_address (macro definition) of file timer.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/timer.h:17: warning: Member CVR_address (macro definition) of file timer.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/src/arm.c:14: warning: Member CCR (macro definition) of file arm.c is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/src/arm.c:16: warning: Member SHPR2 (macro definition) of file arm.c is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/src/arm.c:18: warning: Member ICACHECNF (macro definition) of file arm.c is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/src/arm.c:20: warning: Member CPACR (macro definition) of file arm.c is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/src/arm.c:22: warning: Member FPCCR (macro definition) of file arm.c is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/src/arm.c:38: warning: Member enable_prefetch_i_cache() (function) of file arm.c is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/src/arm.c:43: warning: Member enable_fpu() (function) of file arm.c is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/src/arm.c:50: warning: Member enable_interrupts(void) (function) of file arm.c is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/src/arm.c:54: warning: Member disable_interrupts(void) (function) of file arm.c is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/src/arm.c:58: warning: Member breakpoint(void) (function) of file arm.c is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/src/arm.c:62: warning: Member wait_for_interrupt(void) (function) of file arm.c is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/src/rfft.c:17: warning: Member bit_reverse(uint16_t *p, const uint16_t len, const uint16_t *table) (function) of file rfft.c is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/src/rfft.c:98: warning: The following parameter of fft_bf(int16_t *pIn, uint32_t len) is not documented:
+  parameter 'len'
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/user_common/include/user642.h:17: warning: Member lux_read() (function) of file user642.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/user_common/include/user642.h:19: warning: Member pix_set(uint8_t red, uint8_t green, uint8_t blue) (function) of file user642.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/user_common/include/user642.h:21: warning: Member delay_ms(uint32_t ms) (function) of file user642.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:41: warning: Member name (variable) of class rtt_buffer_down_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:42: warning: Member p_buffer (variable) of class rtt_buffer_down_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:43: warning: Member buffer_size (variable) of class rtt_buffer_down_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:44: warning: Member pos_wr (variable) of class rtt_buffer_down_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:45: warning: Member pos_rd (variable) of class rtt_buffer_down_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:46: warning: Member flags (variable) of class rtt_buffer_down_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:32: warning: Member name (variable) of class rtt_buffer_up_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:33: warning: Member p_buffer (variable) of class rtt_buffer_up_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:34: warning: Member buffer_size (variable) of class rtt_buffer_up_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:35: warning: Member pos_wr (variable) of class rtt_buffer_up_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:36: warning: Member pos_rd (variable) of class rtt_buffer_up_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:37: warning: Member flags (variable) of class rtt_buffer_up_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:53: warning: Member id[16] (variable) of class rtt_control_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:54: warning: Member num_up_buffers (variable) of class rtt_control_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:55: warning: Member num_down_buffers (variable) of class rtt_control_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:56: warning: Member up_buffers[RTT_MAX_UP_BUFFERS] (variable) of class rtt_control_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/rtt.h:57: warning: Member down_buffers[RTT_MAX_DOWN_BUFFERS] (variable) of class rtt_control_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/printk.h:21: warning: Member p_buffer (variable) of class rtt_printk_desc_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/printk.h:22: warning: Member buffer_size (variable) of class rtt_printk_desc_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/printk.h:23: warning: Member count (variable) of class rtt_printk_desc_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/printk.h:24: warning: Member return_value (variable) of class rtt_printk_desc_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab3/f22-lab3-batmaneaters/kernel/include/printk.h:25: warning: Member buffer_index (variable) of class rtt_printk_desc_t is not documented.

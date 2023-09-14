@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['c_24',['C',['../structTCB.html#aa2f867b55f7d8810a18f929b38b8e9ea',1,'TCB']]],
+  ['calculate_5futilization_25',['calculate_utilization',['../syscall__thread_8h.html#a9b1cf2fc01bb33b62a5d3a1acbe851e8',1,'calculate_utilization(uint32_t C, uint32_t T):&#160;syscall_thread.c'],['../syscall__thread_8c.html#a9b1cf2fc01bb33b62a5d3a1acbe851e8',1,'calculate_utilization(uint32_t C, uint32_t T):&#160;syscall_thread.c']]],
+  ['ccr_26',['CCR',['../arm_8c.html#ad4bf7893b2451e38ffd105d563b0a18d',1,'arm.c']]],
+  ['cfft_27',['cfft',['../rfft_8c.html#aa514b6be5e17891c833dc3ebeaead7af',1,'rfft.c']]],
+  ['check_5fblock_28',['check_block',['../syscall__thread_8h.html#a95fccd0711e7a81d506cdd7fc76e0e6a',1,'syscall_thread.h']]],
+  ['check_5fcurr_5fpcp_5fnull_29',['check_curr_PCP_NULL',['../syscall__thread_8h.html#ac1c4d1eb39e9f8e33246ae15fdc53ef1',1,'check_curr_PCP_NULL(TCB *tcb, uint32_t index):&#160;syscall_thread.c'],['../syscall__thread_8c.html#ac1c4d1eb39e9f8e33246ae15fdc53ef1',1,'check_curr_PCP_NULL(TCB *tcb, uint32_t index):&#160;syscall_thread.c']]],
+  ['check_5fhandle_30',['check_handle',['../syscall__thread_8h.html#ac2a7192638c40706831495cb42ee4e96',1,'check_handle(uint32_t mutex_index):&#160;syscall_thread.c'],['../syscall__thread_8c.html#ac2a7192638c40706831495cb42ee4e96',1,'check_handle(uint32_t mutex_index):&#160;syscall_thread.c']]],
+  ['check_5fprio_5fceil_31',['check_Prio_Ceil',['../syscall__thread_8h.html#a93332dd1367ee63de93825fb26bfa2f4',1,'check_Prio_Ceil(TCB *tcb, uint32_t index):&#160;syscall_thread.c'],['../syscall__thread_8c.html#a93332dd1367ee63de93825fb26bfa2f4',1,'check_Prio_Ceil(TCB *tcb, uint32_t index):&#160;syscall_thread.c']]],
+  ['check_5funblock_32',['check_unblock',['../syscall__thread_8h.html#a127f80aa69dbb26525676683dffd0305',1,'syscall_thread.h']]],
+  ['check_5fvalid_33',['check_valid',['../syscall__thread_8h.html#a8435ca6bfee7bbc76ab6c14303d81179',1,'check_valid(uint32_t curr):&#160;syscall_thread.c'],['../syscall__thread_8c.html#a8435ca6bfee7bbc76ab6c14303d81179',1,'check_valid(uint32_t curr):&#160;syscall_thread.c']]],
+  ['clear_5fpendsv_34',['clear_pendsv',['../arm_8h.html#a177199a5b42845a9669a4a08e892eb26',1,'clear_pendsv():&#160;arm.c'],['../arm_8c.html#a7cb523c56ceb5f14fc5030543fc24203',1,'clear_pendsv(void):&#160;arm.c']]],
+  ['color_5fcycle_35',['color_cycle',['../structswitch__color.html#ae7547b3440657dfb7de7409509a95b50',1,'switch_color']]],
+  ['color_5fdecrease_36',['color_decrease',['../structswitch__color.html#aa945378f6c731c46608107673a4939e4',1,'switch_color']]],
+  ['color_5fincrease_37',['color_increase',['../structswitch__color.html#ab19a1debcc163c1c15705d9e15c8e072',1,'switch_color']]],
+  ['color_5ftuner_5fmutex_38',['color_tuner_mutex',['../structmutex__struct.html#a035a9e61fd6c5bf1ab268ecaf204eb7a',1,'mutex_struct']]],
+  ['comp0_39',['comp0',['../pix_8c.html#a64ee2d5907a02d5da109522b8d3c0731',1,'pix.c']]],
+  ['comp1_40',['comp1',['../pix_8c.html#acdb02909ff88931780fd80fb885789f6',1,'pix.c']]],
+  ['computation_5ftime_41',['computation_time',['../structTCB.html#ae4691f802cbbdccc1601ed3fa3c5b6c0',1,'TCB']]],
+  ['cpacr_42',['CPACR',['../arm_8c.html#afbb1a83edcfab77ac185cc2e656a3d6f',1,'arm.c']]],
+  ['csr_5freg_43',['CSR_reg',['../timer_8c.html#a80bd514b6f5b0d22d2f7d359ae7b181f',1,'timer.c']]],
+  ['current_5fbrk_44',['current_brk',['../syscall_8c.html#a154bda9c4b16d5e0fbb40de9930923a9',1,'syscall.c']]],
+  ['current_5fpcp_45',['current_PCP',['../structkernel__struct.html#a7de81859bc28fe4ca2ed37451873c2b4',1,'kernel_struct']]],
+  ['current_5fpriority_46',['current_priority',['../structkernel__struct.html#ad16966fcf60c79cbcea879ccab4d5be4',1,'kernel_struct']]],
+  ['current_5fthread_47',['current_thread',['../structkernel__struct.html#a2d1c40e304fec6c9aa7df8e1d0dba828',1,'kernel_struct']]]
+];

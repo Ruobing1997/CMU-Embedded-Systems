@@ -1,0 +1,69 @@
+warning: source README.txt is not a readable file or directory... skipping.
+warning: source user_common is not a readable file or directory... skipping.
+warning: source user_proj is not a readable file or directory... skipping.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/arm.h:14: warning: Member BUSY_LOOP(COND) (macro definition) of file arm.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/arm.h:22: warning: Member load_exclusive_register(uint32_t *addr) (function) of file arm.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/arm.h:23: warning: Member store_exclusive_register(uint32_t *addr, uint32_t val) (function) of file arm.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/gpio.h:15: warning: Member MODE_INPUT (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/gpio.h:16: warning: Member MODE_OUTPUT (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/gpio.h:19: warning: Member OUTPUT_S0S1 (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/gpio.h:20: warning: Member OUTPUT_H0S1 (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/gpio.h:21: warning: Member OUTPUT_S0H1 (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/gpio.h:22: warning: Member OUTPUT_H0H1 (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/gpio.h:23: warning: Member OUTPUT_D0S1 (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/gpio.h:24: warning: Member OUTPUT_D0H1 (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/gpio.h:25: warning: Member OUTPUT_S0D1 (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/gpio.h:26: warning: Member OUTPUT_H0D1 (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/gpio.h:29: warning: Member PUPD_NONE (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/gpio.h:30: warning: Member PUPD_PULL_DOWN (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/gpio.h:31: warning: Member PUPD_PULL_UP (macro definition) of file gpio.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/pix.h:18: warning: Member UICR_REG0 (macro definition) of file pix.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/pix.h:19: warning: Member NVMC_CONFIG (macro definition) of file pix.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/pix.h:20: warning: Member NVMC_READY (macro definition) of file pix.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/printk.h:13: warning: Member RTT_PRINTK_BUFFER_SIZE (macro definition) of file printk.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/printk.h:15: warning: Member FORMAT_LEFT_JUSTIFY (macro definition) of file printk.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/printk.h:16: warning: Member FORMAT_PAD_ZERO (macro definition) of file printk.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/printk.h:17: warning: Member FORMAT_PRINT_SIGN (macro definition) of file printk.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/printk.h:18: warning: Member FORMAT_ALTERNATE (macro definition) of file printk.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/printk.h:35: warning: Member rtt_printk(uint32_t buffer_index, const char *s_fmt,...) (function) of file printk.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/printk.h:36: warning: Member rtt_vprintk(uint32_t buffer_index, const char *s_fmt, va_list *p_params) (function) of file printk.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/printk.h:37: warning: Member printk(const char *s_fmt,...) (function) of file printk.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rfft.h:13: warning: Member FFT_SIZE (macro definition) of file rfft.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rfft.h:14: warning: Member CFFT_LEN (macro definition) of file rfft.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rfft.h:15: warning: Member BIT_REV_LEN (macro definition) of file rfft.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:14: warning: Member RTT_MAX_UP_BUFFERS (macro definition) of file rtt.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:15: warning: Member RTT_MAX_DOWN_BUFFERS (macro definition) of file rtt.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:16: warning: Member BUFFER_SIZE_UP (macro definition) of file rtt.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:17: warning: Member BUFFER_SIZE_DOWN (macro definition) of file rtt.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:19: warning: Member MIN(a, b) (macro definition) of file rtt.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:20: warning: Member MAX(a, b) (macro definition) of file rtt.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:22: warning: Member NULL (macro definition) of file rtt.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:25: warning: Member RTT__DMB() (macro definition) of file rtt.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:76: warning: Member rtt_init() (function) of file rtt.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:79: warning: Member rtt_has_data(uint32_t buffer_index) (function) of file rtt.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/visualizer.h:14: warning: Member visualizer_push_back(int16_t adc_data) (function) of file visualizer.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/visualizer.h:15: warning: Member visualizer_new_collect() (function) of file visualizer.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/visualizer.h:16: warning: Member visualizer_data_full() (function) of file visualizer.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/visualizer.h:17: warning: Member visualizer_color_info(uint8_t *r, uint8_t *g, uint8_t *b) (function) of file visualizer.h is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:57: warning: Member name (variable) of class rtt_buffer_down_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:58: warning: Member p_buffer (variable) of class rtt_buffer_down_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:59: warning: Member buffer_size (variable) of class rtt_buffer_down_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:60: warning: Member pos_wr (variable) of class rtt_buffer_down_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:61: warning: Member pos_rd (variable) of class rtt_buffer_down_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:62: warning: Member flags (variable) of class rtt_buffer_down_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:38: warning: Member name (variable) of class rtt_buffer_up_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:39: warning: Member p_buffer (variable) of class rtt_buffer_up_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:40: warning: Member buffer_size (variable) of class rtt_buffer_up_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:41: warning: Member pos_wr (variable) of class rtt_buffer_up_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:42: warning: Member pos_rd (variable) of class rtt_buffer_up_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:43: warning: Member flags (variable) of class rtt_buffer_up_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:69: warning: Member id[16] (variable) of class rtt_control_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:70: warning: Member num_up_buffers (variable) of class rtt_control_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:71: warning: Member num_down_buffers (variable) of class rtt_control_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:72: warning: Member up_buffers[RTT_MAX_UP_BUFFERS] (variable) of class rtt_control_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/rtt.h:73: warning: Member down_buffers[RTT_MAX_DOWN_BUFFERS] (variable) of class rtt_control_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/printk.h:28: warning: Member p_buffer (variable) of class rtt_printk_desc_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/printk.h:29: warning: Member buffer_size (variable) of class rtt_printk_desc_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/printk.h:30: warning: Member count (variable) of class rtt_printk_desc_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/printk.h:31: warning: Member return_value (variable) of class rtt_printk_desc_t is not documented.
+/media/psf/Home/Documents/CMU_course/Fall2022/14642/labs/Lab2/f22-lab2-batmaneaters/kernel/include/printk.h:32: warning: Member buffer_index (variable) of class rtt_printk_desc_t is not documented.

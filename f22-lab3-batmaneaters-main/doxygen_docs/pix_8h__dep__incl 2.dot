@@ -1,0 +1,11 @@
+digraph "kernel/include/pix.h"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="kernel/include/pix.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="prototypes and constants for Neopixel driver"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="kernel/src/pix.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$pix_8c.html",tooltip="pwm driver for ws2812b \"neopixel\""];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="kernel/src/visualizer.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$visualizer_8c.html",tooltip="implementation of color visualizer"];
+}

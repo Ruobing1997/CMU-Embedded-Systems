@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "visualizer.h": "c",
+        "stdbool.h": "c"
+    }
+}

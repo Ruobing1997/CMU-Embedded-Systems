@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "syscall.h": "c",
+        "usr_arg.h": "c",
+        "user642.h": "c",
+        "cstdio": "c"
+    }
+}
